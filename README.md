@@ -40,6 +40,12 @@ At the same time, the ESP32 connects to a Wi-Fi network and runs an HTTP web ser
 
 ![ESP32 DHT11 OLED Web Monitor](DHT11-OLED-Web.png)
 
+## Demo
+
+The following video demonstrates the ESP32 DHT11 monitoring system, including the OLED display and web-based monitoring interface.
+
+[ESP32 DHT11 Web Monitor Demo](ESP32-DHT11-Web-Monitor.mp4)
+
 ## Setup
 
 1. Install the ESP32 board package in Arduino IDE.
