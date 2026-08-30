@@ -38,7 +38,7 @@ At the same time, the ESP32 connects to a Wi-Fi network and runs an HTTP web ser
 
 ## Circuit
 
-![ESP32 DHT11 OLED Web Monitor](DHT11_Web_Monitor.png)
+![ESP32 DHT11 OLED Web Monitor](DHT11-OLED-Web.png)
 
 ## Setup
 
