@@ -6,8 +6,8 @@
 
 Adafruit_SSD1306 oled(128,64,&Wire,-1);
 DHTesp dht;
-char *ssid = "ali";
-char *password = "00000000";
+char *ssid = "YOUR_WIFI_SSID";
+char *password = "YOUR_WIFI_PASSWORD";
 
 WiFiServer server(80);
 
